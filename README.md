@@ -44,7 +44,7 @@
   </div>    
    
   <div class="img-gif">
-  <img align="right" alt="jg-gif" width="200" src="https://media.discordapp.net/attachments/845618602505404427/880084863124897863/GIFPAL-20210825103807.gif">
+  <img align="right" alt="jg-gif" width="180" src="https://media.discordapp.net/attachments/845618602505404427/880084863124897863/GIFPAL-20210825103807.gif">
   </div>
     
   <div>
