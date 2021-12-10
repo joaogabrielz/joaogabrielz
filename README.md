@@ -6,11 +6,11 @@
   <img alt="jg-Js" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="jg-mysql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img alt="jg-linux" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> 
-  <img alt="jg-Js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-  <img alt="jg-Js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
-  <img alt="jg-Js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
-  <img alt="jg-Js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
-  <img alt="jg-Js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+  <img alt="jg-PS" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img alt="jg-AI" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img alt="jg-PR" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg">
+  <img alt="jg-AE" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
+  <img alt="jg-C" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   </h3>
   </div>
   
@@ -36,14 +36,15 @@
   <h3>
    </div>
     
+    
   ### ⚡Fun fact: 🧠 🧘‍ 🏋️‍♀ 📚 💼
     - I totally changed my life and now I am looking for the best of myself in all aspects.
     💻📚Interested in every area of technology, especially cyber security, programming and design
     
   <div>
   <a href="https://github.com/joaogabrielz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielz&layout=compact&langs_count=7&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabrielz&layout=compact&langs_count=7&theme=aura"/>  
   </div>    
    
   <div class="img-gif">
