@@ -33,6 +33,7 @@
    <img alt="jg-ruby" align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> 
    <img alt="jg-linux" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">  
    <img alt="jg-batch" align="center" height="30" width="40" src="https://img.icons8.com/pastel-glyph/64/000000/batch-script--v2.png">
+    <img alt="jg-figma" align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
    <img alt="jg-figma" align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <h3>
    </div>
