@@ -33,7 +33,8 @@
    <img alt="jg-react" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img alt="jg-node" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="jg-mongo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">   
-   <img alt="jg-mongo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">   
+   <img alt="jg-mongo" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
+   <img alt="jg-php" align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img alt="jg-java" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img alt="jg-python" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
    <img alt="jg-ruby" align="center" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"> 
