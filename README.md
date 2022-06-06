@@ -1,4 +1,8 @@
-  # Hello World , I am Joao Gabriel 👋
+  # Hello World , I am Joao Gabriel  <img width="100" src="https://c.tenor.com/LoziwJSpAyAAAAAC/hulk-dance.gif">
+  
+  :computer: Systems Analysis and Development student | Front-End Developer > Becoming Full-Stack <br>
+  <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
+ 
   <div style="display:flex">
   <h3>👨‍💻 knowledge: </h3>
   <img alt="jg-HTML" align="center" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -81,5 +85,3 @@
   <a href = "mailto:zacarias1021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-zacarias-455b41160"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-            badge&logo=linkedin&logoColor=white" width="100" target="_blank"></a>  
 </div>
-    
-![Snake animation](https://github.com/joaogabrielz/joaogabrielz/blob/output/github-contribution-grid-snake.svg)
