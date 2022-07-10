@@ -71,7 +71,7 @@
     
   <div>
   <h4>🏢 I’m currently working on:
-  <img alt="incra" align="center" width="150" src="https://brandeps.com/logo-download/I/INCRA-logo-vector-01.svg">
+  <img alt="" align="center" width="150" src="">
   </h4>
   </div>
    
