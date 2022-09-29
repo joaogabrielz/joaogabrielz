@@ -1,4 +1,4 @@
-  # Hello World , I am Joao Gabriel  <img width="100" src="https://c.tenor.com/LoziwJSpAyAAAAAC/hulk-dance.gif">
+  # Hello World , I am Joao Gabriel  <img width="50" src="https://c.tenor.com/LoziwJSpAyAAAAAC/hulk-dance.gif">
   
   :computer: Systems Analysis and Development student | Front-End Developer > Becoming Full-Stack <br>
   <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
