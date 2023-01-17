@@ -1,5 +1,7 @@
   # Hello World , I am Joao Gabriel  <img width="50" src="https://c.tenor.com/LoziwJSpAyAAAAAC/hulk-dance.gif">
   
+  ### Repositorios Autorais estao marcados como autorais, os de estudo/cursos não estão...
+  
   :computer: Systems Analysis and Development student | Front-End Developer > Becoming Full-Stack <br>
   <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
  
@@ -19,15 +21,6 @@
         <img alt="jg-tailwindcss" align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> 
 
   </div>
-  
-      while(alive){
-        eat();
-        code();
-        coffe();
-        train();
-        learn();
-        //sleep();
-      }
     
  <div style="display:flex">  
   <h3>🧙‍♂️ Others Skills:</h3>
