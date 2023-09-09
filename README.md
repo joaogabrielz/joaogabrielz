@@ -4,12 +4,33 @@
   <img alt="On-A-Journey-To-Be-A-FullStack" src= "https://readme-typing-svg.herokuapp.com/?lines=On+a+journey+to+be+a+Fullstack!" >
   <div style="display:flex">
   <h3>👨‍💻 Hard Skills: </h3>
-    
+          
+  <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+      <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+      <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+      
   <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
   <img alt="jg-nest" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img alt="jg-mysql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img alt="jg-java" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
+  
+
+
+ <div style="display:flex">  
+  <h3> I've worked om projects in:</h3>
+   <span>Real projects:  <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> </span>
+   <br>
+   <br>
+    <span>Simple projects: 
+      <img alt="jg-java" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img alt="jg-php" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+  <img alt="jg-vue" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img alt="jg-vue" align="center" height="40" width="35" src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png">
+  </span>
+
+ </div>
  
   </div>
  <div style="display:flex">  
